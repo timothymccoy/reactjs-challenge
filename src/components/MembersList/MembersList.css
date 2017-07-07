@@ -1,0 +1,31 @@
+.MembersList{
+    margin: 20px;
+    padding: 20px;
+    list-style-type: none;
+    overflow: hidden;
+    margin:0 auto;
+}
+
+@media (min-width: 1320px){
+  .MembersList {
+    width:1320px;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1319px) {
+  .MembersList {
+    width:900px;
+  }
+}
+
+@media (min-width: 770px) and (max-width: 899px) {
+  .MembersList {
+    width:700px;
+  }
+}
+
+@media (min-width: 460px) and (max-width: 769px) {
+  .MembersList {
+    width:460px;
+  }
+}

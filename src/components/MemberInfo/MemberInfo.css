@@ -1,0 +1,8 @@
+.MemberInfo{
+    padding:10px;
+}
+.MemberInfo p{
+    font-size:20px;
+    font-weight: bold;
+    text-align: center;
+}

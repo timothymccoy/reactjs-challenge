@@ -1,0 +1,17 @@
+.AvitarContainer{
+    width:180px;
+    height: 180px;
+    overflow: hidden;
+    position: relative;
+    top:-60px;
+    margin:0 auto;
+    border:10px solid #60939e;
+    border-radius:100px;
+}
+
+.Avitar{
+    width:200px;
+    border-radius: 100px;
+    position: relative;
+    left:-10px;
+}
